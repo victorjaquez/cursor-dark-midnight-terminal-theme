@@ -1,0 +1,36 @@
+{
+  "name": "Cursor Dark Midnight",
+  "source_theme": "Cursor Dark Midnight",
+  "source_file": "/Applications/Cursor.app/Contents/Resources/app/extensions/theme-cursor/themes/Cursor Dark Midnight-color-theme.json",
+  "background": "#191c22",
+  "foreground": "#d8dee9",
+  "cursor": "#8fbcbb",
+  "selection": "#272c36",
+  "typography": {
+    "family": "Berkeley Mono",
+    "style": "Bold",
+    "size": 14
+  },
+  "notes": {
+    "selection": "Composite of Cursor terminal.selectionBackground (#434c5e55) over terminal.background (#191c22) for opaque terminal themes.",
+    "limitation": "Standalone terminal app chrome still differs from Cursor itself; this bundle targets the terminal surface, typography, cursor, and palette."
+  },
+  "ansi": {
+    "black": "#272c36",
+    "red": "#bf616a",
+    "green": "#a3be8c",
+    "yellow": "#ebcb8b",
+    "blue": "#81a1c1",
+    "magenta": "#7d7c9b",
+    "cyan": "#88c0d0",
+    "white": "#e5e9f0",
+    "brightBlack": "#4c566a",
+    "brightRed": "#bf616a",
+    "brightGreen": "#a3be8c",
+    "brightYellow": "#ebcb8b",
+    "brightBlue": "#81a1c1",
+    "brightMagenta": "#b48ead",
+    "brightCyan": "#8fbcbb",
+    "brightWhite": "#eceff4"
+  }
+}
