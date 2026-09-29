@@ -19,13 +19,13 @@ palette = 4=#81a1c1
 palette = 5=#7d7c9b
 palette = 6=#88c0d0
 palette = 7=#e5e9f0
-palette = 8=#4c566a
+palette = 8=#5f6c86
 palette = 9=#bf616a
 palette = 10=#a3be8c
-palette = 11=#ebcb8b
-palette = 12=#81a1c1
-palette = 13=#b48ead
-palette = 14=#8fbcbb
+palette = 11=#88c0d0
+palette = 12=#88c0d0
+palette = 13=#81a1c1
+palette = 14=#81a1c1
 palette = 15=#eceff4
 background = #191c22
 foreground = #d8dee9
@@ -33,3 +33,10 @@ cursor-color = #8fbcbb
 cursor-text = #191c22
 selection-background = #272c36
 selection-foreground = #d8dee9
+# Cursor Dark Midnight diff backgrounds (used by Claude Code diffs)
+palette = 22=#424c39
+palette = 52=#572026
+palette = 28=#4f5b44
+palette = 88=#65292f
+palette = 58=#333b2c
+palette = 95=#47161b
